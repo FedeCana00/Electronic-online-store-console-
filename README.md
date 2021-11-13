@@ -1,9 +1,9 @@
 # Electronic-online-store-console-
 
-<h2> Installation </h2>
+<h2> 💻Installation </h2>
 To install and run the software use an IDE suitable for Java code (Eclipse <a href="https://www.eclipse.org/downloads/"> download </a>, NetBeans <a href = "https: // netbeans.apache.org/download/index.html">download </a>, IntelliJ <a href="https://www.jetbrains.com/idea/download/#section=windows"> download </a> , etc.). When you have installed the IDE you prefer, you can run the program inside it by opening the java project in this folder and clicking the "Run" button.
 
-<h2> Usage <h2>
+<h2> 👨‍💻Use </h2>
 Once the program has been run, the console will welcome you to e-commerce and you will be asked to choose whether you want to log in or register.
   
 ```
@@ -12,9 +12,9 @@ Do you want to Log in (key: l) or Sign Up (key: s)?
   ```
 
 There are three accounts by default:
-* Administrator account: Federico Canali, username, faith and password f
-* Employee account: Alice Jones, username ali and password jS
-* User account: Bob Smith, bob username and password b
+  * Administrator account: Federico Canali, username, <b>fede</b> and password <b>f</b>
+  * Employee account: Alice Jones, username <b>ali</b> and password <b>jS</b>
+  * User account: Bob Smith, username <b>bob</b> and password <b>b</b>
   
 By choosing the registration and entering "s" you will be asked for your name, surname, username and password.
   
@@ -84,7 +84,7 @@ Logout: (key: o)
 #####################
   ```
   
-<h2> Types of operations you can do based on your privileges: </h2>
+<h2> ⚒️Types of operations you can do based on your privileges: </h2>
   <h3> Print the product list </h3>
   
   ```
@@ -211,6 +211,6 @@ Insert product's code ...
 This product has been removed! Products [productName = Keyboard, productCode = 5, producerName = HP, price = 34.68 €, quantity = 6]
   ```
 
-  <h2> Documentation </h2>
+  <h2>📃Documentation </h2>
 To generate project documentation (<a href="https://docs.oracle.com/javase/8/docs/technotes/tools/windows/javadoc.html"> JavaDoc </a>) in eclipse Project-> Generate Javadoc ...
 For more information <a href="https://idratherbewriting.com/learnapidoc/nativelibraryapis_create_javadoc.html"> here </a>
